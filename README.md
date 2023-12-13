@@ -1,10 +1,1 @@
-# Happy Birthday 🎈🎈
-
-This is a template for a birthday card. In this version an additional haunted hallway scene has been added. **Only mobile portrait view is available.**
-</br>
-
-[Preview]()
-
-## Credits
-
-- [Akash Kumar Mishra](https://instagram.com/akash_mishra_69?igshid=YTQwZjQ0NmI0OA==)
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
