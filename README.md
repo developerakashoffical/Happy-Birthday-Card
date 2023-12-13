@@ -7,4 +7,4 @@ This is a template for a birthday card. In this version an additional haunted ha
 
 ## Credits
 
-- [AnshumanMahato](https://instagram.com/akash_mishra_69?igshid=YTQwZjQ0NmI0OA==)
+- [Akash Kumar Mishra](https://instagram.com/akash_mishra_69?igshid=YTQwZjQ0NmI0OA==)
